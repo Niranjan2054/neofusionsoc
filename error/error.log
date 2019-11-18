@@ -1,0 +1,48 @@
+May 11, 2019 04:28:24 PM : (DB Connection): SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+May 11, 2019 04:28:30 PM : (DB Connection): SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+May 11, 2019 04:28:35 PM : (DB Connection): SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: No such host is known. 
+May 11, 2019 04:30:47 PM : (DB Connection): SQLSTATE[HY000] [1049] Unknown database 'neofusinsoc'
+May 19, 2019 08:17:27 AM : ( run Query) : SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'last_login'
+May 19, 2019 08:26:51 AM : ( DB Select Data) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neofusionsoc.advertisement' doesn't exist
+May 19, 2019 08:26:56 AM : ( run Query) : SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'last_login'
+May 19, 2019 08:32:42 AM : ( run Query) : SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'last_login'
+May 19, 2019 08:42:34 PM : ( run Query) : SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'last_login'
+May 20, 2019 08:03:30 PM : (DB Connection): SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Jun 14, 2019 08:21:17 PM : ( run Query) : SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'last_login'
+Jun 15, 2019 09:36:09 AM : ( run Query) : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'longitude' in 'field list'
+Jun 15, 2019 09:36:21 AM : ( run Query) : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'longitude' in 'field list'
+Jun 15, 2019 09:39:17 AM : ( run Query) : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'longitude' in 'field list'
+Jun 16, 2019 03:17:11 PM : (DB Connection): SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Nov 13, 2019 07:56:08 PM : ( run Query) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neofusionsoc.view' doesn't exist
+Nov 13, 2019 07:56:08 PM : ( DB Select Data) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neofusionsoc.institute' doesn't exist
+Nov 13, 2019 07:56:08 PM : ( DB Select Data) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neofusionsoc.courses' doesn't exist
+Nov 13, 2019 07:56:08 PM : ( DB Select Data) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neofusionsoc.banners' doesn't exist
+Nov 13, 2019 07:56:08 PM : ( DB Select Data) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neofusionsoc.video' doesn't exist
+Nov 13, 2019 07:56:08 PM : ( DB Select Data) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neofusionsoc.gallery' doesn't exist
+Nov 13, 2019 07:56:08 PM : ( DB Select Data) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neofusionsoc.student' doesn't exist
+Nov 13, 2019 07:56:08 PM : ( DB Select Data) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neofusionsoc.student' doesn't exist
+Nov 13, 2019 07:56:08 PM : ( DB Select Data) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neofusionsoc.subscriber' doesn't exist
+Nov 13, 2019 07:56:08 PM : ( DB Select Data) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neofusionsoc.view' doesn't exist
+Nov 13, 2019 07:56:08 PM : ( DB Select Data) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neofusionsoc.blog' doesn't exist
+Nov 13, 2019 07:56:08 PM : ( DB Select Data) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neofusionsoc.student' doesn't exist
+Nov 13, 2019 07:56:09 PM : ( DB Select Data) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neofusionsoc.notice' doesn't exist
+Nov 13, 2019 07:59:56 PM : ( run Query) : SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'last_login'
+Nov 13, 2019 08:03:29 PM : ( DB Select Data) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neofusionsoc.pages' doesn't exist
+Nov 13, 2019 08:14:04 PM : ( DB Select Data) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neofusionsoc.pages' doesn't exist
+Nov 13, 2019 09:50:39 PM : ( run Query) : SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'last_login'
+Nov 13, 2019 09:50:39 PM : ( run Query) : SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'varchar(50),
+			comment	text,
+			email varchar(50),
+			status enum('Active','' at line 7
+Nov 13, 2019 09:50:56 PM : ( run Query) : SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'last_login'
+Nov 13, 2019 09:50:56 PM : ( run Query) : SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'varchar(50),
+			comment	text,
+			email varchar(50),
+			status enum('Active','' at line 7
+Nov 13, 2019 09:51:43 PM : ( run Query) : SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'last_login'
+Nov 13, 2019 10:43:11 PM : ( DB Select Data) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neofusionsoc.pages' doesn't exist
+Nov 13, 2019 10:44:19 PM : ( DB Select Data) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neofusionsoc.pages' doesn't exist
+Nov 13, 2019 10:46:02 PM : ( DB Select Data) : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'neofusionsoc.pages' doesn't exist
+Nov 14, 2019 09:25:13 PM : ( run Query) : SQLSTATE[42S21]: Column already exists: 1060 Duplicate column name 'last_login'

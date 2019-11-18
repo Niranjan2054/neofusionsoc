@@ -1,0 +1,27 @@
+.msg-box{position:relative;border:1px solid #999;background-color:#fff;border-top:none;width: 80%; margin:auto;}
+.msg-box .box-header{display:-ms-flexbox;display:flex;-ms-flex-pack:center;justify-content:center;border-top:5px solid #ff9a04;padding:25px 50px;text-align:center;position:relative;width:calc(100% + 2px);margin-left:-1px}
+.msg-box .box-header .header-icon{font-size:60px;font-size:3.75rem;font-weight:400;width:80px;height:80px;border:2px solid #999;border-radius:100%;-webkit-border-radius:100%;-moz-border-radius:100%;-ms-border-radius:100%;-o-border-radius:100%}
+.msg-box .box-body{position:relative;text-align:center;padding:25px 50px;padding-top:0}
+.msg-box .box-body h1{font-weight:700;text-transform:capitalize;text-align:center;margin-top:0;margin-bottom:20px;line-height:1.4em}
+.msg-box .box-body h2{font-weight:700;text-transform:capitalize;text-align:center;margin-top:0;margin-bottom:20px;line-height:1.4em}
+.msg-box .box-body h3{font-weight:700;text-transform:capitalize;text-align:center;margin-top:0;margin-bottom:20px;line-height:1.4em}
+.msg-box .box-body h4{font-weight:700;text-transform:capitalize;text-align:center;margin-top:0;margin-bottom:20px;line-height:1.4em}
+.msg-box .box-body h5{font-weight:700;text-transform:capitalize;text-align:center;margin-top:0;margin-bottom:20px;line-height:1.4em}
+.msg-box .box-body h6{font-weight:700;text-transform:capitalize;text-align:center;margin-top:0;margin-bottom:20px;line-height:1.4em}
+.msg-box .box-body .msg-title{font-size:36px;font-size:2.25rem}
+.msg-box .box-body .msg-message{font-size:18px;font-size:1.125rem;text-align:center!important;line-height:1.8em;font-weight:700;color:#4d4d4d;margin-bottom:30px}
+.msg-box .box-body p{text-align:center!important;line-height:1.8em;font-weight:400;color:#4d4d4d}
+.msg-box .box-body .btn{font-size:16px;font-size:1rem;font-weight:700;height:auto;text-transform:uppercase;padding:15px 50px;margin-bottom:15px;width:auto}
+.msg-box .box-body a{color:#008cc9;text-transform:uppercase}
+.msg-box.success .box-header{border-color:#52ab42}
+.msg-box.success .box-header .header-icon{border-color:#52ab42}
+.msg-box.success .box-header .header-icon:before{font-family:themify;color:#52ab42;content:"\e64c";font-size:48px;font-size:3rem;position:absolute;left:50%;top:50%;-ms-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}
+.msg-box.success .box-body .msg-title{color:#52ab42}
+.msg-box.success .box-body .btn{background-color:#52ab42;color:#fff}
+.msg-box.success .box-body .btn:hover,.msg-box.success .box-body .btn:focus{background-color:#6ec15f}
+.msg-box.success .box-body a{color:#52ab42}
+#comment-message {
+    margin-left: 20px;
+    color: #189a18;
+    display: none;
+}
