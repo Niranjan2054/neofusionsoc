@@ -4,7 +4,7 @@
 This is the web designing and development project for Neo Fusion School Of Computer.
 
 ---
-Requirements for local setup:
+## Requirements for local setup:
 
 [xampp]('https://www.apachefriends.org/download.html')
 
